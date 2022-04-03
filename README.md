@@ -1,2 +1,2 @@
 # nclsmvll.github.io
-Just testing github.
+Hello! I'm Nicolas, a random guy just trying to learn new things every day.
